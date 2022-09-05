@@ -24,7 +24,7 @@ nav img{
 }
 .nav-links{
     flex: 1;
-    text-align: center;
+    text-align: left;
 }
 .nav-links ul li{
     list-style: none;
@@ -41,7 +41,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #33b1c5;
     display: block;
     margin: auto;
     transition: .5s;    
